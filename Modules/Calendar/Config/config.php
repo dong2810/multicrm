@@ -15,7 +15,7 @@ return [
         'calendar',
         'calendar.settings',
 
-        'calendar.browse',
+        'calendar.browse',  
         'calendar.create',
         'calendar.update',
         'calendar.destroy',

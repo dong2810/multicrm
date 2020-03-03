@@ -1,0 +1,25 @@
+{
+    "name": "Laravel BAP/migrate",
+    "description": "",
+    "authors": [
+        {
+            "name": "Laravel BAP - Business Application Platform",
+            "email": "code@laravel-bap.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Migrate\\Providers\\MigrateServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Migrate\\": ""
+        }
+    }
+}

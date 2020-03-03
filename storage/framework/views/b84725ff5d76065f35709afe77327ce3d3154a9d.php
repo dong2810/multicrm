@@ -1,0 +1,1 @@
+<?php echo e(\Modules\Platform\Core\Helper\UserHelper::formatUserDate($entity->$fieldName)); ?>
